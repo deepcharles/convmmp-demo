@@ -1,1 +1,2 @@
+matplotlib
 git+https://github.com/deepcharles/convmmp
