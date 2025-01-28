@@ -11,7 +11,7 @@ st.title("Convolutional Sparse Coding with Multipath Orthogonal Matching Pursuit
 
 st.write("""Implementation of the algorithm described in (Gomes et al., 2024):
 
-- Gomes, Y., Truong, C., Saut, J.-P., Hafid, F., Prieur, P., & Oudre, L. (2024). Convolutional sparse coding with multipath orthogonal matching pursuit.
+- Gomes, Y., Truong, C., Saut, J.-P., Hafid, F., Prieur, P., & Oudre, L. (2025). Convolutional Sparse Coding with Multipath Orthogonal Matching Pursuit. Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).
 
 The code is available at this address: https://github.com/deepcharles/convmmp
 
